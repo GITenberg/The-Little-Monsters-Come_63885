@@ -1,5 +1,5 @@
 _repo: The-Little-Monsters-Come_63885
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: McWilliams, Al
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52573'
     url: http://www.gutenberg.org/2009/agents/52573
     wikipedia: https://en.wikipedia.org/wiki/Al_McWilliams
+covers:
+- cover_type: archival
+  image_path: 63885-h/images/cover.jpg
 creator:
   author:
     agent_name: Cummings, Ray
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8443
     wikipedia: https://en.wikipedia.org/wiki/Ray_Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63885#The-Little-Monsters-Come
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
